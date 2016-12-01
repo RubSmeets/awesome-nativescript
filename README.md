@@ -302,6 +302,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [LokiJS Example](https://github.com/TobiasHennig/loki-nativescript-adapter-example) - An example application for the Loki NativeScript adapter.
 - [TabView Example](https://github.com/lazaromenezes/nativescript-tabview-example) - Short example of using NativeScript TabView.
 - [Animated Sidebar Menu](https://github.com/emiloberg/nativescript-animated-sidebar-menu-example) - Create an animated sidebar menu without any external dependencies.
+- [PropertyCross Implementation](https://github.com/tastejs/PropertyCross/tree/master/nativescript) - An example app for searching UK property listings build with Angular 2 + NativeScript.
 
 #### Project Boilerplates
 
