@@ -38,7 +38,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 <br>
 > <h3>NativeScript Ecosystem</h3>
 
-#### Documentation
+#### Official
 
 - [Developer Docs](https://docs.nativescript.org/) - NativeScript Documentation.
 - [API Reference](https://docs.nativescript.org/api-reference/globals.html) - NativeScript API.
