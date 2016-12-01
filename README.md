@@ -10,7 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Table of Contents
  - [Resources](#resources)
-   - [Documentation](#documentation)
+   - [Official](#official)
    - [Community](#community)
  - [Plugins](#plugins)
    - [Interface](#interface)
