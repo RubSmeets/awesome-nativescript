@@ -60,10 +60,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ##### Bloggers
 
-- [List Main NativeScript Bloggers](https://www.nativescript.org/resources#nativescript-bloggers)
-- [TJ VanToll](https://www.tjvantoll.com/blog/)
-- [Peter Messenger](http://stonecourier.blogspot.be/)
-- [Ben Elliott](https://therankamateur.co.uk/)
+- [Main NativeScript Bloggers](https://www.nativescript.org/resources#nativescript-bloggers)
+- [NS Bloggers](http://www.nsbloggers.com/feeds.cfm) - Extensive list of NativeScript bloggers maintained by community.
+- [Peter Messenger](http://stonecourier.blogspot.be/) - Senior developer at [KipMcGrath Education Centres](http://www.kipmcgrath.com/) and Web developer.
 
 <br>
 > <h3>Plugins</h3>
